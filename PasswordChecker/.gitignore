@@ -1,0 +1,17 @@
+﻿﻿.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+Debug/
+Release/
+.idea/
+*.DotSettings.user
+*.nupkg
+packages/
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
